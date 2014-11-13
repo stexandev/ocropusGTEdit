@@ -8,7 +8,7 @@ The current version 0.1 is to be used only with caution.
 
 aims (achieved + / - to be done)
 --------------------------------
-+ automated matching of image and text files on directory choice
-+ accelerated text editing workflow by keyboard use
-+ autosave
-- automated scaling of image and text input from files according to window size (currently fixed to 50 px/36 pt height)
+-(+) automated matching of image and text files on directory choice
+-(+) accelerated text editing workflow by keyboard use
+-(+) autosave
+-(-) automated scaling of image and text input from files according to window size (currently fixed to 50 px/36 pt height)
